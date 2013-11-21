@@ -1,3 +1,6 @@
 $(document).ready(function() {
-  // $('[data-accessibility="true"]').keynavigator();
+  $(".table").hide();
+  $(".toggleTable").on("click",function(){
+    $(".table").toggle();
+  });
 });  

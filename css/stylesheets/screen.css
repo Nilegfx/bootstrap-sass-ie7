@@ -1,8 +1,8 @@
-.color1, .color2, .color5, .color6, .color9, .color16, .color17, .color18, .color19, .color20 {
+.color5, .color11, .color13, .color16, .color18, .color19, .color20 {
   color: black;
 }
 
-.color3, .color4, .color7, .color8, .color10, .color11, .color12, .color13, .color14, .color15 {
+.color1, .color2, .color3, .color4, .color6, .color7, .color8, .color9, .color10, .color12, .color14, .color15, .color17 {
   color: white;
 }
 
@@ -29,81 +29,81 @@
 }
 
 .color1 {
-  background-color: #46ce9b;
+  background-color: #a253b1;
 }
 
 .color2 {
-  background-color: #17b4de;
+  background-color: #94566e;
 }
 
 .color3 {
-  background-color: #ea11a8;
+  background-color: #e427a9;
 }
 
 .color4 {
-  background-color: #4457ea;
+  background-color: #b53d6d;
 }
 
 .color5 {
-  background-color: #8c71d8;
+  background-color: #95e6ed;
 }
 
 .color6 {
-  background-color: #9dc105;
+  background-color: #fa3b39;
 }
 
 .color7 {
-  background-color: #a66e5c;
+  background-color: #6121b7;
 }
 
 .color8 {
-  background-color: #3f4299;
+  background-color: #0f4a90;
 }
 
 .color9 {
-  background-color: #e1c442;
+  background-color: #d22b48;
 }
 
 .color10 {
-  background-color: #b30277;
+  background-color: #827114;
 }
 
 .color11 {
-  background-color: #484e94;
+  background-color: #dcb401;
 }
 
 .color12 {
-  background-color: #0d0117;
+  background-color: #1ea03c;
 }
 
 .color13 {
-  background-color: #782222;
+  background-color: #66d263;
 }
 
 .color14 {
-  background-color: #4b0054;
+  background-color: #a62a0e;
 }
 
 .color15 {
-  background-color: #ba41c1;
+  background-color: #500004;
 }
 
 .color16 {
-  background-color: #84d80a;
+  background-color: #bbbd14;
 }
 
 .color17 {
-  background-color: #a0f13b;
+  background-color: #4a31ad;
 }
 
 .color18 {
-  background-color: #abb8f4;
+  background-color: #63fdf7;
 }
 
 .color19 {
-  background-color: #1efdd9;
+  background-color: #bcc0e7;
 }
 
 .color20 {
-  background-color: #79b64a;
+  background-color: #937c71;
 }
