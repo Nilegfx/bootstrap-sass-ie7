@@ -1,0 +1,109 @@
+.color1, .color2, .color5, .color6, .color9, .color16, .color17, .color18, .color19, .color20 {
+  color: black;
+}
+
+.color3, .color4, .color7, .color8, .color10, .color11, .color12, .color13, .color14, .color15 {
+  color: white;
+}
+
+.npl {
+  padding-left: 0;
+}
+
+.npr {
+  padding-right: 0;
+}
+
+.npv {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.nph {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.bordered {
+  border: 1px solid red;
+}
+
+.color1 {
+  background-color: #46ce9b;
+}
+
+.color2 {
+  background-color: #17b4de;
+}
+
+.color3 {
+  background-color: #ea11a8;
+}
+
+.color4 {
+  background-color: #4457ea;
+}
+
+.color5 {
+  background-color: #8c71d8;
+}
+
+.color6 {
+  background-color: #9dc105;
+}
+
+.color7 {
+  background-color: #a66e5c;
+}
+
+.color8 {
+  background-color: #3f4299;
+}
+
+.color9 {
+  background-color: #e1c442;
+}
+
+.color10 {
+  background-color: #b30277;
+}
+
+.color11 {
+  background-color: #484e94;
+}
+
+.color12 {
+  background-color: #0d0117;
+}
+
+.color13 {
+  background-color: #782222;
+}
+
+.color14 {
+  background-color: #4b0054;
+}
+
+.color15 {
+  background-color: #ba41c1;
+}
+
+.color16 {
+  background-color: #84d80a;
+}
+
+.color17 {
+  background-color: #a0f13b;
+}
+
+.color18 {
+  background-color: #abb8f4;
+}
+
+.color19 {
+  background-color: #1efdd9;
+}
+
+.color20 {
+  background-color: #79b64a;
+}

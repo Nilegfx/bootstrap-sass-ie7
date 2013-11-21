@@ -1,0 +1,14 @@
+@mixin generate_random_colors(){
+  @for $i from 1 through 20 {
+    .color#{$i}{
+      $color:usw_randomColor();
+      background-color: $color;
+      @if(color-by-background($color, $contrast: $default-text-contrast)==black){
+        @extend %black;
+      }@else{
+        @extend %white;
+      }
+    }
+  }
+}
+

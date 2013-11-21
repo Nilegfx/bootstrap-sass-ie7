@@ -1,0 +1,6 @@
+@import "compass";
+@import "_helpers/color_functions";
+@import "_helpers/utilities";
+@import "_helpers/mixins";
+
+@include generate_random_colors();
