@@ -1,109 +1,53 @@
-.color5, .color11, .color13, .color16, .color18, .color19, .color20 {
-  color: black;
-}
+.color2, .color3, .color5, .color8, .color9, .color10, .color13, .color14, .color15, .color16, .color17, .color19 { color: black; }
 
-.color1, .color2, .color3, .color4, .color6, .color7, .color8, .color9, .color10, .color12, .color14, .color15, .color17 {
-  color: white;
-}
+.color1, .color4, .color6, .color7, .color11, .color12, .color18, .color20 { color: white; }
 
-.npl {
-  padding-left: 0;
-}
+.npl { padding-left: 0; }
 
-.npr {
-  padding-right: 0;
-}
+.npr { padding-right: 0; }
 
-.npv {
-  padding-top: 0;
-  padding-bottom: 0;
-}
+.npv { padding-top: 0; padding-bottom: 0; }
 
-.nph {
-  padding-right: 0;
-  padding-left: 0;
-}
+.nph { padding-right: 0; padding-left: 0; }
 
-.bordered {
-  border: 1px solid red;
-}
+.bordered { border: 1px solid red; }
 
-.color1 {
-  background-color: #a253b1;
-}
+.color1 { background-color: #360a54; }
 
-.color2 {
-  background-color: #94566e;
-}
+.color2 { background-color: #d0ba5d; }
 
-.color3 {
-  background-color: #e427a9;
-}
+.color3 { background-color: #58e9ea; }
 
-.color4 {
-  background-color: #b53d6d;
-}
+.color4 { background-color: #1c1c8e; }
 
-.color5 {
-  background-color: #95e6ed;
-}
+.color5 { background-color: #d8c527; }
 
-.color6 {
-  background-color: #fa3b39;
-}
+.color6 { background-color: #3c70e6; }
 
-.color7 {
-  background-color: #6121b7;
-}
+.color7 { background-color: #ef1710; }
 
-.color8 {
-  background-color: #0f4a90;
-}
+.color8 { background-color: #efc0be; }
 
-.color9 {
-  background-color: #d22b48;
-}
+.color9 { background-color: #8aa56c; }
 
-.color10 {
-  background-color: #827114;
-}
+.color10 { background-color: #fc8915; }
 
-.color11 {
-  background-color: #dcb401;
-}
+.color11 { background-color: #8a7b4f; }
 
-.color12 {
-  background-color: #1ea03c;
-}
+.color12 { background-color: #af6421; }
 
-.color13 {
-  background-color: #66d263;
-}
+.color13 { background-color: #f7cd3a; }
 
-.color14 {
-  background-color: #a62a0e;
-}
+.color14 { background-color: #2fc5a3; }
 
-.color15 {
-  background-color: #500004;
-}
+.color15 { background-color: #c6e483; }
 
-.color16 {
-  background-color: #bbbd14;
-}
+.color16 { background-color: #d2f573; }
 
-.color17 {
-  background-color: #4a31ad;
-}
+.color17 { background-color: #439dd4; }
 
-.color18 {
-  background-color: #63fdf7;
-}
+.color18 { background-color: #256dd5; }
 
-.color19 {
-  background-color: #bcc0e7;
-}
+.color19 { background-color: #98fa45; }
 
-.color20 {
-  background-color: #937c71;
-}
+.color20 { background-color: #965b3d; }
